@@ -3,7 +3,6 @@
 [![SungYun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsy3971&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/hsy3971/github-readme-stats)
 <img src="https://github.com/user-attachments/assets/73b54985-55a7-4ef0-b84f-a5a8e5fa6ad4" alt="코딩마스터스 그랜드마스터 (1차)_image" width="300" height="200">
 
-<br>
 
 ## 💻 Education 💻
 
